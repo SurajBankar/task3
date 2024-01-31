@@ -1,0 +1,32 @@
+[
+    {
+        "id":1,
+        "name":"Sugar",
+        "mrp":100,
+        "salePrice":90,
+        "gst":5,
+        "Quantity":1,
+        "total":0,
+        "discount":0
+    },
+    {
+        "id":2,
+        "name":"Cooking-oil",
+        "mrp":110,
+        "salePrice":100,
+        "gst":4,
+        "Quantity":1,
+        "total":0,
+        "discount":0
+    },
+    {
+        "id":3,
+        "name":"Salt",
+        "mrp":50,
+        "salePrice":40,
+        "gst":2,
+        "Quantity":1,
+        "total":0,
+        "discount":0
+    }
+]

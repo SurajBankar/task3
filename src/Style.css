@@ -1,0 +1,23 @@
+.customer-details ,.customer-details p{
+    background-color: rgb(245, 238, 238);
+    color: black;
+    box-shadow: 0px 0px 10px 0px;
+}
+.aaa{
+    /* display: flex; */
+    display:block;
+    width: 100%;
+    bottom: 0;
+    left: 0;
+    position: fixed;
+    background-color: rgb(245, 238, 238);   
+     color: black;
+  /* position: sticky; */
+}
+.foot-color{
+    color: black;
+}
+.ssss{
+    vertical-align: middle;
+    
+}
