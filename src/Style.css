@@ -21,3 +21,11 @@
     vertical-align: middle;
     
 }
+.ABCDE{
+    line-height: 100px;   
+}
+.wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    }
